@@ -1,6 +1,10 @@
 # Civic Census Results Analysis
 
-This repository contains SQL queries for analyzing calgary population results from the table [Civic_Census_Results_1958-2019] in the [PersonalProjects].[dbo] database.
+This repository contains SQL queries for analyzing Calgary population results from the table [Civic_Census_Results_1958-2019] in the [PersonalProjects].[dbo] database.
+
+## Source
+
+City of Calgary's Open Data Portal. Civic Census Results 1958-2019 https://data.calgary.ca/Demographics/Civic-Census-Results-1958-2019/rmai-qvzh
 
 ## Table Structure
 
